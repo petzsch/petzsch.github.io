@@ -1,8 +1,8 @@
-baseurl = "https://pages.gitlab.io/hugo/"
+baseurl = "https://www.petzsch.eu"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Beautiful Hugo"
+title = "petzsch.eu"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
