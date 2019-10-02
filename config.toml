@@ -15,7 +15,7 @@ disqusShortname = "petzsch"
 
 [Params]
   subtitle = "Welcome on my personal webpage."
-  logo = "img/markus-logo.PNG"
+  logo = "img/markus-pic.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
