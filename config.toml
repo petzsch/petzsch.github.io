@@ -14,7 +14,7 @@ disqusShortname = "petzsch"
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Hugo Blog Template for GitLab Pages"
+  subtitle = "Welcome on my personal webpage."
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
