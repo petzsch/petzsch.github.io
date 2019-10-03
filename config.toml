@@ -73,19 +73,19 @@ disqusShortname = "petzsch"
 [[menu.main]]
     parent = "services"
     name = "ISPConfig"
-    url = "https://server.petzsch.eu:8443"
+    url = "https://ispconfig.petzsch.eu:8443"
     weight = 1
 
 [[menu.main]]
     parent = "services"
-    name = "SeaFile"
-    url = "https://files.petzsch.eu"
+    name = "Nextcloud"
+    url = "https://cloud.petzsch.eu"
     weight = 2
 
 [[menu.main]]
     parent = "services"
     name = "Webmail"
-    url = "https://mail.ionos.de"
+    url = "https://webmail.petzsch.eu"
     weight = 3
 
 [[menu.main]]
