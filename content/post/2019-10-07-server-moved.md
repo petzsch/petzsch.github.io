@@ -8,7 +8,7 @@ This is definitly saving me a buck or two per month and is still more than enoug
 
 I also made the move from Apache to nginx which brought some difficulties with getting Nextcloud to run properly. More on that in a future blog post.
 
-ISPConfig in it's most (recent version)[https://www.ispconfig.org/blog/ispconfig-3-1-15-released/] comes with a new SPAM filter (rspamd) which replaces AMAVIS. The results of this
+ISPConfig in it's most [recent version](https://www.ispconfig.org/blog/ispconfig-3-1-15-released/) comes with a new SPAM filter (rspamd) which replaces AMAVIS. The results of this
 new filter so far are very convincing.
 
 So far I am very happy with Debian 10 bringing PHP 7.3 and all other relevant software in very up2date versions.
