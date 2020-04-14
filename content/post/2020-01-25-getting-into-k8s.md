@@ -1,6 +1,7 @@
 ---
 title: Getting Into Kubernetes (K8s)
 date: 2020-01-25
+tags: [k8s, kubernetes, linux]
 ---
 
 After working with docker day in and out for almost 2 years, it feels like I've been missing out on the best parts of the whole container ecosystem.

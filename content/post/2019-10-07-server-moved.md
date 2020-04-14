@@ -1,6 +1,7 @@
 ---
 title: Server moved to Netcup
 date: 2019-10-07
+tags: [server]
 ---
 
 After about 1,5 years on a hetzner dedicated server which I was heavily under-utilizing, I finally decided to move all my family related websites and emails to a Netcup KVM server.

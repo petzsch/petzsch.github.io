@@ -1,6 +1,7 @@
 ---
 title: Eclipse Che - A Real Cloud IDE on k3s
 date: 2020-04-12
+tags: [che, k8s, kubernetes]
 ---
 
 After comming across an article about Eclipse Che and Theia, I decided to give both a shot. It happens to be that the
