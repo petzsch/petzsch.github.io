@@ -17,6 +17,6 @@ How it works:
 - after 6 Bitcoin network confirmations (usually takes an hour or so), BTCPayServer sends an Instant Payment Notification (IPN)
   to my server
 - that in turn triggers an API call to we-love-tv.com and adds the credits to the users OTR account
-- an E-Mail get's send to me and the user confirming the transaction
+- an email get's send to me and the user confirming the transaction
 
 I see this mainly as a proof of concept. But demand is steadly growing.
