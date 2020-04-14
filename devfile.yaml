@@ -14,7 +14,7 @@ components:
     memoryLimit: 500Mi
     type: dockerimage
     alias: hugo
-    image: 'registry.gitlab.com/pages/hugo:latest'
+    image: 'docker.sternico.dev/pub/che-runners/hugo:latest'
 apiVersion: 1.0.0
 commands:
   - name: run hugo
