@@ -4,7 +4,7 @@ subtitle: Why you'd want to hang out with me
 comments: false
 ---
 
-My name is Markus Petzsch. I am a [DevOps Engineer at Sternico GmbH](https://sternico.com)
+My name is Markus Petzsch. I am a [DevOps Engineer at Sternico GmbH.](https://sternico.com)
 I work on all sorts of awesome projects and want to blog here about some cool technologies that I came across during my work.
 
 My favorite topics as of the time of writing this are:
@@ -12,8 +12,8 @@ My favorite topics as of the time of writing this are:
 - Docker
 - K8s
 - CI/CD
-- Jenkins
 - GitLab CI
+- BTCPayServer
 
 ### my history
 
