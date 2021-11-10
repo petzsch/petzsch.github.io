@@ -78,15 +78,9 @@ disqusShortname = "petzsch"
 
 [[menu.main]]
     parent = "services"
-    name = "Nextcloud"
-    url = "https://cloud.petzsch.eu"
-    weight = 2
-
-[[menu.main]]
-    parent = "services"
     name = "Webmail"
     url = "https://webmail.petzsch.eu"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Tags"
