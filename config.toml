@@ -36,7 +36,7 @@ disqusShortname = "petzsch"
 [Author]
   name = "Markus Petzsch"
   email = "markus@petzsch.eu"
-  facebook = "petzsch"
+#  facebook = "petzsch"
 #  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   gitlab = "petzsch"
   github = "petzsch"
