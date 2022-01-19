@@ -17,7 +17,7 @@ Fax: +49-36331-32029
 E-Mail: markus@petzsch.eu  
 For concerns regarding the E-Mail Service: postmaster@isp-panel.net  
 
-This website and the associated services are soley for private/non-commercial use.
+This website and the associated services are solely for private/non-commercial use.
 
 ### About me
 
