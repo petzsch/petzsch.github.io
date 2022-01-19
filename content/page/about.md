@@ -4,6 +4,23 @@ subtitle: Why you'd want to hang out with me
 comments: false
 ---
 
+### Obligatory information / Imprint
+
+Georg Markus Petzsch
+Sandlünz 1
+99768 Harztor
+GERMANY
+
+Tel.: +49-160-92857620
+Fax: +49-36331-32029
+
+E-Mail: markus@petzsch.eu
+For concerns regarding the E-Mail Service: postmaster@isp-panel.net
+
+This website and the associated services are soley for private/non-commercial use.
+
+### About me
+
 My name is Markus Petzsch. I am a [DevOps Engineer at Sternico GmbH.](https://sternico.com)
 I work on all sorts of awesome projects and want to blog here about some cool technologies that I came across during my work.
 
