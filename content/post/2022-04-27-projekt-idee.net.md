@@ -1,5 +1,5 @@
 ---
-title: Neue Projektidee - 4sats.net
+title: Neue Projektidee
 date: 2022-04-27
 tags: [docker, bitcoin, btcpayserver, linux]
 ---
