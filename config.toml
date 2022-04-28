@@ -89,6 +89,12 @@ disqusShortname = "petzsch"
     weight = 3
 
 [[menu.main]]
+    parent = "services"
+    name = "Mastodon Instance"
+    url = "https://maximalists.club/"
+    weight = 4
+
+[[menu.main]]
     name = "Tags"
     url = "tags"
     weight = 3
