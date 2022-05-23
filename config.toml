@@ -1,4 +1,4 @@
-baseurl = "https://petzsch.eu"
+baseurl = "https://www.petzsch.eu"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
