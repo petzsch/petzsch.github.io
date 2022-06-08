@@ -16,6 +16,7 @@ Fax: +49-36331-32029
 
 E-Mail: markus@petzsch.eu  
 For concerns regarding the E-Mail Service: postmaster@isp-panel.net  
+GPG Key: [0x3498ffa6b3a7537e5f23788e983751bd3aca4995](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3498ffa6b3a7537e5f23788e983751bd3aca4995)
 
 This website and the associated services are solely for private/non-commercial use.
 
@@ -35,7 +36,3 @@ My favorite topics as of the time of writing this are:
 ### my history
 
 Just read my [Xing](https://www.xing.com/profile/Markus_Petzsch) or [LinkedIn](https://linkedin.com/in/petzsch) page for that stuff.
-
-### my GPG key
-
-[0x3498ffa6b3a7537e5f23788e983751bd3aca4995](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3498ffa6b3a7537e5f23788e983751bd3aca4995)
