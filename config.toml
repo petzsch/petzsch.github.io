@@ -73,21 +73,15 @@ disqusShortname = "petzsch"
 
 [[menu.main]]
     parent = "services"
-    name = "ISPConfig"
-    url = "https://server.isp-panel.net:8443"
-    weight = 1
-
-[[menu.main]]
-    parent = "services"
     name = "Webmail"
-    url = "https://server.isp-panel.net:8443"
-    weight = 2
+    url = "https://webmail01.netcup.net"
+    weight = 1
 
 [[menu.main]]
     parent = "services"
     name = "Cloud Storage"
     url = "https://cloud.petzsch.eu/nextcloud/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Tags"
