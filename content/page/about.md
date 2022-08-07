@@ -15,8 +15,8 @@ Tel.: +49-160-92857620
 Fax: +49-36331-32029  
 
 E-Mail: markus@petzsch.eu  
-For concerns regarding the E-Mail Service: postmaster@isp-panel.net  
-GPG Key: [0x3498ffa6b3a7537e5f23788e983751bd3aca4995](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3498ffa6b3a7537e5f23788e983751bd3aca4995)
+GPG Key: [0x3498ffa6b3a7537e5f23788e983751bd3aca4995](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3498ffa6b3a7537e5f23788e983751bd3aca4995)  
+
 Keybase: [petzsch](https://keybase.io/petzsch)
 
 This website and the associated services are solely for private/non-commercial use.
