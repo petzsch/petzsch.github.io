@@ -14,3 +14,5 @@ Ich überlege eine deutschsprachige Tutorial Serie für Webshop Händler zu [BTC
 Was meint ihr wäre das richtige Format dafür? Ich denke an eine Serie von Blog Artikeln und ein paar Screencasts/youtube Videos.
 
 Ich freue mich auf eine Diskussion zum Thema. Bisher ist es nur eine Idee, aber ich denke der Bedarf dafür besteht auf jeden Fall.
+
+<b>UPDATE: Wie das so mit guten Ideen ist, manchmal ist jemand anders schneller: [Viel Spaß mit der Playlist von Onleines](https://www.youtube.com/playlist?list=PLUY9KXtnF_XopEkXxIQNsGVip9D04Nk8f)</b>
