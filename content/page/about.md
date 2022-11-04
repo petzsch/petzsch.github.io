@@ -21,7 +21,7 @@ Keybase: [petzsch](https://keybase.io/petzsch)
 
 ### About me
 
-My name is Georg **Markus** Petzsch. I am a [DevOps Engineer at Sternico GmbH.](https://sternico.com) and Freelance IT Consultant helping business
+My name is Georg **Markus** Petzsch. I am a [DevOps Engineer at Sternico GmbH.](https://sternico.com) and Freelance IT Consultant helping businesses
 to accept Bitcoin. I work on all sorts of awesome projects and want to blog here about some cool technologies that I came across during my work.
 
 My favorite topics as of the time of writing this are:
