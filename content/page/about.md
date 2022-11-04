@@ -6,7 +6,7 @@ comments: false
 
 ### Obligatory information / Imprint
 
-Georg Markus Petzsch  
+Georg Markus Petzsch IT Beratung  
 Sandlünz 1  
 99768 Harztor  
 GERMANY  
@@ -19,12 +19,10 @@ GPG Key: [0x3498ffa6b3a7537e5f23788e983751bd3aca4995](https://keyserver.ubuntu.c
 
 Keybase: [petzsch](https://keybase.io/petzsch)
 
-This website and the associated services are solely for private/non-commercial use.
-
 ### About me
 
-My name is Markus Petzsch. I am a [DevOps Engineer at Sternico GmbH.](https://sternico.com)
-I work on all sorts of awesome projects and want to blog here about some cool technologies that I came across during my work.
+My name is Georg **Markus** Petzsch. I am a [DevOps Engineer at Sternico GmbH.](https://sternico.com) and Freelance IT Consultant helping business
+to accept Bitcoin. I work on all sorts of awesome projects and want to blog here about some cool technologies that I came across during my work.
 
 My favorite topics as of the time of writing this are:
 
