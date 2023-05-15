@@ -15,7 +15,7 @@ disqusShortname = "petzsch"
 
 [Params]
   subtitle = "Welcome on my personal homepetzsch."
-  logo = "img/markus-pic.jpg"
+  logo = "https://avatars.githubusercontent.com/u/1374810?v=4"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
