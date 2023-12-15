@@ -29,4 +29,4 @@ My favorite topics as of the time of writing this are:
 
 # my history
 
-Just read my [Xing](https://www.xing.com/profile/Markus_Petzsch) or [LinkedIn](https://linkedin.com/in/petzsch) page for that stuff. If you like to learn more about the projects that I'm involved in, check out my [GitHub](https://github.com/petzsch/)
+If you like to learn more about the projects that I'm involved in, check out my [GitHub](https://github.com/petzsch/)
