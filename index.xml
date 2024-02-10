@@ -8,6 +8,9 @@ I&amp;rsquo;ve signed up for a cheap managed K8s offer with free credits to star
 They have a great CLI tool - doctl - which you can use to spin up clusters automatically, generate your kubectl config file including oAuth keys and all that good stuff.</description></item><item><title>Server moved to Netcup</title><link>https://petzsch.eu/post/2019-10-07-server-moved/</link><pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/post/2019-10-07-server-moved/</guid><description>After about 1,5 years on a hetzner dedicated server which I was heavily under-utilizing, I finally decided to move all my family related websites and emails to a Netcup KVM server. This is definitly saving me a buck or two per month and is still more than enough power to run all my services.
 I also made the move from Apache to nginx which brought some difficulties with getting Nextcloud to run properly.</description></item><item><title>First Post</title><link>https://petzsch.eu/post/2019-10-02-first-post/</link><pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/post/2019-10-02-first-post/</guid><description>Welcome to my personal blog. Here I will ramble about cool technologies and everyday life stuff.</description></item><item><title>About me</title><link>https://petzsch.eu/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/page/about/</guid><description>Obligatory information / Imprint (Note: This is a private website and does therefore not require an imprint.)
 Markus Petzsch
+Sandlünz 1
+99768 Harztor
+Tel.: +49-160-92857620
 E-Mail: markus@petzsch.eu
 GPG Key: 0x3498ffa6b3a7537e5f23788e983751bd3aca4995
 Keybase: petzsch
