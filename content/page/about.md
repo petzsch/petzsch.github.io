@@ -8,7 +8,10 @@ comments: false
 
 (Note: This is a private website and does therefore not require an imprint.)  
 
-Markus Petzsch    
+Markus Petzsch  
+Sandlünz 1  
+99768 Harztor  
+Tel.: +49-160-92857620    
 
 E-Mail: markus@petzsch.eu  
 GPG Key: [0x3498ffa6b3a7537e5f23788e983751bd3aca4995](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3498ffa6b3a7537e5f23788e983751bd3aca4995)  
