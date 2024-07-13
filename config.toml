@@ -75,7 +75,7 @@ pygmentCodeFences = true
 [[menu.main]]
     parent = "services"
     name = "Webmail"
-    url = "https://webmail01.netcup.net"
+    url = "https://server.net-hoster.com:8080/webmail/"
     weight = 1
 
 [[menu.main]]
