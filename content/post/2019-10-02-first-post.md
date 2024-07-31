@@ -8,13 +8,13 @@ Welcome to my personal blog. Here I will ramble about cool technologies and ever
 
 Random markdown test:
 
-{{< highlight php "linenos=table,linenostart=1" >}}
+```php {linenos=table,anchorlinenos=true,linenostart=199}
 <?php
 
 phpinfo();
 
 ?>
-{{< / highlight >}}
+```
 
 
 how does it look?
