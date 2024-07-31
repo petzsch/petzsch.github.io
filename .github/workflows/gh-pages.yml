@@ -25,7 +25,7 @@ jobs:
         run: hugo --minify
 
       - name: SyntaxCSS  
-        run: hugo gen chromastyles --style=monokai > css/syntax.css
+        run: hugo gen chromastyles --style=monokai > public/css/syntax.css
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
