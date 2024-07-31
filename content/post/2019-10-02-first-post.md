@@ -8,7 +8,7 @@ Welcome to my personal blog. Here I will ramble about cool technologies and ever
 
 Random markdown test:
 
-```php {linenos=table,anchorlinenos=true,linenostart=199}
+```php {linenos=table,anchorlinenos=true}
 <?php
 /**
  * Copyright 2022-2024 FOSSBilling
