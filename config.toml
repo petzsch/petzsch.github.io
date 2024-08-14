@@ -13,9 +13,6 @@ pygmentCodeFences = true
 #disqusShortname = "petzsch"
 #googleAnalytics = "XXX"
 
-[markup]
-  defaultMarkdownHandler = 'goldmark'
-
 [Params]
   subtitle = "Welcome on my personal homepetzsch."
   logo = "https://avatars.githubusercontent.com/u/1374810?v=4"
