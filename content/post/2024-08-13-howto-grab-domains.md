@@ -6,7 +6,7 @@ tags: [domains]
 
 # gTLD lifecycle
 
-![gTLD lifecycle](/static/img/gtld-lifecycle.jpg)
+![gTLD lifecycle](/img/gtld-lifecycle.jpg)
 (source: [ICANN](https://archive.icann.org/en/registrars/gtld-lifecycle.jpg)
 
 As you are probably aware of, a typical gTLD or nTLD domain runs through multiple phases after it's expiration date. The last of which is the pendingDelete status which typically lasts 5 days.
