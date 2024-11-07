@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on petzsch.eu</title><link>/post/</link><description>Recent content in Posts on petzsch.eu</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Howto grab a domain that has been deleted</title><link>/post/2024-08-13-howto-grab-domains/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><guid>/post/2024-08-13-howto-grab-domains/</guid><description>&lt;h1 id="gtld-lifecycle">gTLD lifecycle&lt;/h1>
-&lt;p>&lt;img src="/static/img/gtld-lifecycle.jpg" alt="gTLD lifecycle">
+&lt;p>&lt;img src="/img/gtld-lifecycle.jpg" alt="gTLD lifecycle">
 (source: &lt;a href="https://archive.icann.org/en/registrars/gtld-lifecycle.jpg">ICANN&lt;/a>&lt;/p>
 &lt;p>As you are probably aware of, a typical gTLD or nTLD domain runs through multiple phases after it&amp;rsquo;s expiration date. The last of which is the pendingDelete status which typically lasts 5 days.&lt;/p>
 &lt;p>If you are serious about getting a domain, it is these very 5 days on which you should become active. (at latest).&lt;/p>
