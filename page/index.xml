@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on petzsch.eu</title><link>https://petzsch.eu/page/</link><description>Recent content in Pages on petzsch.eu</description><generator>Hugo</generator><language>en</language><managingEditor>markus@petzsch.eu (Markus Petzsch)</managingEditor><webMaster>markus@petzsch.eu (Markus Petzsch)</webMaster><atom:link href="https://petzsch.eu/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://petzsch.eu/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/page/about/</guid><description>Obligatory information / Imprint (Note: This is a private website and does therefore not require an imprint.)
-Markus Petzsch
-E-Mail: markus@petzsch.eu
-GPG Key: 0x3498ffa6b3a7537e5f23788e983751bd3aca4995
-Keybase: petzsch
-About me My name is Markus. I am a DevOps Engineer/OpenSource Enthusiast. I work on all sorts of awesome projects and want to blog here about some cool technologies that I came across during my work.
-My favorite topics as of the time of writing this are:</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on petzsch.eu</title><link>https://petzsch.eu/page/</link><description>Recent content in Pages on petzsch.eu</description><generator>Hugo</generator><language>en</language><atom:link href="https://petzsch.eu/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://petzsch.eu/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://petzsch.eu/page/about/</guid><description>&lt;h1 id="obligatory-information--imprint">Obligatory information / Imprint&lt;/h1>
+&lt;p>(Note: This is a private website and does therefore not require an imprint.)&lt;/p>
+&lt;p>Markus Petzsch&lt;/p>
+&lt;p>E-Mail: &lt;a href="mailto:markus@petzsch.eu">markus@petzsch.eu&lt;/a>&lt;br>
+GPG Key: &lt;a href="https://keyserver.ubuntu.com/pks/lookup?op=get&amp;amp;search=0x3498ffa6b3a7537e5f23788e983751bd3aca4995">0x3498ffa6b3a7537e5f23788e983751bd3aca4995&lt;/a>&lt;/p>
+&lt;p>Keybase: &lt;a href="https://keybase.io/petzsch">petzsch&lt;/a>&lt;/p>
+&lt;h1 id="about-me">About me&lt;/h1>
+&lt;p>My name is Markus. I am a DevOps Engineer/OpenSource Enthusiast. I work on all sorts of awesome projects and want to blog here about some cool technologies that I came across during my work.&lt;/p>
+&lt;p>My favorite topics as of the time of writing this are:&lt;/p></description></item></channel></rss>

@@ -1,14 +1,98 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on petzsch.eu</title><link>https://petzsch.eu/post/</link><description>Recent content in Posts on petzsch.eu</description><generator>Hugo</generator><language>en</language><managingEditor>markus@petzsch.eu (Markus Petzsch)</managingEditor><webMaster>markus@petzsch.eu (Markus Petzsch)</webMaster><lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://petzsch.eu/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Howto grab a domain that has been deleted</title><link>https://petzsch.eu/post/2024-08-13-howto-grab-domains/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/post/2024-08-13-howto-grab-domains/</guid><description>gTLD lifecycle (source: ICANN)
-As you are probably aware of, a typical gTLD or nTLD domain runs through multiple phases after it&amp;rsquo;s expiration date. The last of which is the pendingDelete status which typically lasts 5 days.
-If you are serious about getting a domain, it is these very 5 days on which you should become active. (at latest).
-Since I still have a reseller account with 1blu business GmbH, I&amp;rsquo;m going to illustrate howto setup a cronjob for their domain robot.</description></item><item><title>Privacy - no more user tracking</title><link>https://petzsch.eu/post/2022-12-04-no-tracking/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/post/2022-12-04-no-tracking/</guid><description>Privacy for my users: No more Analytics on my Websites Just a short info: I&amp;rsquo;ve decided to remove the Matomo tracking code from my websites.
-I value my own privacy when surfing online and so it occured to me, that I should respect the privacy of my users just the same.
-I&amp;rsquo;m also thinking of replacing the DISQUS feature as it also includes way to many privacy traps (aka social networks).</description></item><item><title>Privates, Blah, Blah, Baltic Honey Badger</title><link>https://petzsch.eu/post/2022-08-07-privates-blah/</link><pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/post/2022-08-07-privates-blah/</guid><description>german (english version below) Leider werde ich aus gesundheitlichen Gründen alle Voraussicht nach nicht am Baltic Honey Badger teilnehemen können, bzw. wenn dann nur Remote als Zuschauer. Ich hatte mich so auf den BTCPay Day gefreut. Aber manchmal macht einem die Gesundheit einen fetten Strich durch die Rechnung.
-Ich wünsche allen Teilnehmenden und dem Team von BTCPay Server eine spannende Konferenz.
-english Sadly I won&amp;rsquo;t be able to attend the Baltic Honey Badger event.</description></item><item><title>Neue Projektidee</title><link>https://petzsch.eu/post/2022-04-27-projekt-idee/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/post/2022-04-27-projekt-idee/</guid><description>Ich überlege eine deutschsprachige Tutorial Serie für Webshop Händler zu BTCPayServer zu machen. Alles von:
-Bestellung eigener vServer / Einrichtung eines Raspberry PI Installation Betriebssystem + docker + btcpayserver Einstellung von Port-Forwarding um BTCPayServer im Clearnet verfügbar zu machen Einrichtung in gängigen Shop Systemen (Shopify, Woocommerce, individuelle Integration für PHP Entwickler) Was meint ihr wäre das richtige Format dafür? Ich denke an eine Serie von Blog Artikeln und ein paar Screencasts/youtube Videos.</description></item><item><title>Getting Into Kubernetes (K8s)</title><link>https://petzsch.eu/post/2020-01-25-getting-into-k8s/</link><pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/post/2020-01-25-getting-into-k8s/</guid><description>After working with docker day in and out for almost 2 years, it feels like I&amp;rsquo;ve been missing out on the best parts of the whole container ecosystem.
-I&amp;rsquo;ve signed up for a cheap managed K8s offer with free credits to start with.
-They have a great CLI tool - doctl - which you can use to spin up clusters automatically, generate your kubectl config file including oAuth keys and all that good stuff.</description></item><item><title>Server moved to Netcup</title><link>https://petzsch.eu/post/2019-10-07-server-moved/</link><pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/post/2019-10-07-server-moved/</guid><description>After about 1,5 years on a hetzner dedicated server which I was heavily under-utilizing, I finally decided to move all my family related websites and emails to a Netcup KVM server. This is definitly saving me a buck or two per month and is still more than enough power to run all my services.
-I also made the move from Apache to nginx which brought some difficulties with getting Nextcloud to run properly.</description></item><item><title>First Post</title><link>https://petzsch.eu/post/2019-10-02-first-post/</link><pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate><author>markus@petzsch.eu (Markus Petzsch)</author><guid>https://petzsch.eu/post/2019-10-02-first-post/</guid><description>Welcome to my personal blog. Here I will ramble about cool technologies and everyday life stuff.
-Random markdown test:
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 &amp;lt;?php /** * Copyright 2022-2024 FOSSBilling * Copyright 2011-2021 BoxBilling, Inc. * SPDX-License-Identifier: Apache-2.0. * * @copyright FOSSBilling (https://www.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on petzsch.eu</title><link>https://petzsch.eu/post/</link><description>Recent content in Posts on petzsch.eu</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://petzsch.eu/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Howto grab a domain that has been deleted</title><link>https://petzsch.eu/post/2024-08-13-howto-grab-domains/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><guid>https://petzsch.eu/post/2024-08-13-howto-grab-domains/</guid><description>&lt;h1 id="gtld-lifecycle">gTLD lifecycle&lt;/h1>
+&lt;p>&lt;img src="https://petzsch.eu/static/img/gtld-lifecycle.jpg" alt="gTLD lifecycle">
+(source: &lt;a href="https://www.vip.icann.org/resources/pages/gtld-lifecycle-2012-02-25-en">ICANN&lt;/a>)&lt;/p>
+&lt;p>As you are probably aware of, a typical gTLD or nTLD domain runs through multiple phases after it&amp;rsquo;s expiration date. The last of which is the pendingDelete status which typically lasts 5 days.&lt;/p>
+&lt;p>If you are serious about getting a domain, it is these very 5 days on which you should become active. (at latest).&lt;/p>
+&lt;p>Since I still have a reseller account with &lt;a href="https://1blu-business.de/">1blu business GmbH&lt;/a>, I&amp;rsquo;m going to illustrate howto setup a cronjob for their domain robot. The steps required to set this up, will varry quite a bit.&lt;/p></description></item><item><title>Privacy - no more user tracking</title><link>https://petzsch.eu/post/2022-12-04-no-tracking/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>https://petzsch.eu/post/2022-12-04-no-tracking/</guid><description>&lt;h1 id="privacy-for-my-users-no-more-analytics-on-my-websites">Privacy for my users: No more Analytics on my Websites&lt;/h1>
+&lt;p>&lt;strong>Just a short info:&lt;/strong> I&amp;rsquo;ve decided to remove the Matomo tracking code from my websites.&lt;/p>
+&lt;p>I value my own privacy when surfing online and so it occured to me, that I should respect the privacy of my users just the same.&lt;/p>
+&lt;p>I&amp;rsquo;m also thinking of replacing the DISQUS feature as it also includes way to many privacy traps (aka social networks).&lt;/p></description></item><item><title>Privates, Blah, Blah, Baltic Honey Badger</title><link>https://petzsch.eu/post/2022-08-07-privates-blah/</link><pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate><guid>https://petzsch.eu/post/2022-08-07-privates-blah/</guid><description>&lt;h2 id="german-english-version-below">german (english version below)&lt;/h2>
+&lt;p>Leider werde ich aus gesundheitlichen Gründen alle Voraussicht nach nicht am &lt;a href="https://baltichoneybadger.com/">Baltic Honey Badger&lt;/a> teilnehemen können, bzw. wenn dann nur Remote als Zuschauer. Ich hatte mich so auf den BTCPay Day gefreut. Aber manchmal macht einem die Gesundheit einen fetten Strich durch die Rechnung.&lt;/p>
+&lt;p>Ich wünsche allen Teilnehmenden und dem Team von BTCPay Server eine spannende Konferenz.&lt;/p>
+&lt;h2 id="english">english&lt;/h2>
+&lt;p>Sadly I won&amp;rsquo;t be able to attend the &lt;a href="https://baltichoneybadger.com/">Baltic Honey Badger&lt;/a> event. If possible I will be joining in remotely as listener. I was so hyped about participating this year, but sometimes you own well beeing can come in the way of things.&lt;/p></description></item><item><title>Neue Projektidee</title><link>https://petzsch.eu/post/2022-04-27-projekt-idee/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>https://petzsch.eu/post/2022-04-27-projekt-idee/</guid><description>&lt;p>Ich überlege eine deutschsprachige Tutorial Serie für Webshop Händler zu &lt;a href="https://www.btcpayserver.org">BTCPayServer&lt;/a> zu machen. Alles von:&lt;/p>
+&lt;ul>
+&lt;li>Bestellung eigener vServer / Einrichtung eines Raspberry PI&lt;/li>
+&lt;li>Installation Betriebssystem + docker + btcpayserver&lt;/li>
+&lt;li>Einstellung von Port-Forwarding um BTCPayServer im Clearnet verfügbar zu machen&lt;/li>
+&lt;li>Einrichtung in gängigen Shop Systemen (Shopify, Woocommerce, individuelle Integration für PHP Entwickler)&lt;/li>
+&lt;/ul>
+&lt;p>Was meint ihr wäre das richtige Format dafür? Ich denke an eine Serie von Blog Artikeln und ein paar Screencasts/youtube Videos.&lt;/p></description></item><item><title>Getting Into Kubernetes (K8s)</title><link>https://petzsch.eu/post/2020-01-25-getting-into-k8s/</link><pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate><guid>https://petzsch.eu/post/2020-01-25-getting-into-k8s/</guid><description>&lt;p>After working with docker day in and out for almost 2 years, it feels like I&amp;rsquo;ve been missing out on the best parts of the whole container ecosystem.&lt;/p>
+&lt;p>I&amp;rsquo;ve signed up for a &lt;a href="https://m.do.co/c/767d1bada3e9">cheap managed K8s offer&lt;/a> with free credits to start with.&lt;/p>
+&lt;p>They have a great CLI tool - &lt;a href="https://github.com/digitalocean/doctl">doctl&lt;/a> - which you can use to spin up clusters automatically, generate your kubectl config file including oAuth keys and all that good stuff.&lt;/p></description></item><item><title>Server moved to Netcup</title><link>https://petzsch.eu/post/2019-10-07-server-moved/</link><pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate><guid>https://petzsch.eu/post/2019-10-07-server-moved/</guid><description>&lt;p>After about 1,5 years on a hetzner dedicated server which I was heavily under-utilizing, I finally decided to move all my family related websites and emails to a Netcup KVM server.
+This is definitly saving me a buck or two per month and is still more than enough power to run all my services.&lt;/p>
+&lt;p>I also made the move from Apache to nginx which brought some difficulties with getting Nextcloud to run properly. More on that in a future blog post.&lt;/p></description></item><item><title>First Post</title><link>https://petzsch.eu/post/2019-10-02-first-post/</link><pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate><guid>https://petzsch.eu/post/2019-10-02-first-post/</guid><description>&lt;p>Welcome to my personal blog. Here I will ramble about cool technologies and everyday life stuff.&lt;/p>
+&lt;p>Random markdown test:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-0-1">&lt;a class="lnlinks" href="#hl-0-1"> 1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-2">&lt;a class="lnlinks" href="#hl-0-2"> 2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-3">&lt;a class="lnlinks" href="#hl-0-3"> 3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-4">&lt;a class="lnlinks" href="#hl-0-4"> 4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-5">&lt;a class="lnlinks" href="#hl-0-5"> 5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-6">&lt;a class="lnlinks" href="#hl-0-6"> 6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-7">&lt;a class="lnlinks" href="#hl-0-7"> 7&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-8">&lt;a class="lnlinks" href="#hl-0-8"> 8&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-9">&lt;a class="lnlinks" href="#hl-0-9"> 9&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-10">&lt;a class="lnlinks" href="#hl-0-10">10&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-11">&lt;a class="lnlinks" href="#hl-0-11">11&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-12">&lt;a class="lnlinks" href="#hl-0-12">12&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-13">&lt;a class="lnlinks" href="#hl-0-13">13&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-14">&lt;a class="lnlinks" href="#hl-0-14">14&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-15">&lt;a class="lnlinks" href="#hl-0-15">15&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-16">&lt;a class="lnlinks" href="#hl-0-16">16&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-17">&lt;a class="lnlinks" href="#hl-0-17">17&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-18">&lt;a class="lnlinks" href="#hl-0-18">18&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-19">&lt;a class="lnlinks" href="#hl-0-19">19&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-20">&lt;a class="lnlinks" href="#hl-0-20">20&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-21">&lt;a class="lnlinks" href="#hl-0-21">21&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-22">&lt;a class="lnlinks" href="#hl-0-22">22&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-23">&lt;a class="lnlinks" href="#hl-0-23">23&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-24">&lt;a class="lnlinks" href="#hl-0-24">24&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-25">&lt;a class="lnlinks" href="#hl-0-25">25&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-26">&lt;a class="lnlinks" href="#hl-0-26">26&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-27">&lt;a class="lnlinks" href="#hl-0-27">27&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-28">&lt;a class="lnlinks" href="#hl-0-28">28&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-29">&lt;a class="lnlinks" href="#hl-0-29">29&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-30">&lt;a class="lnlinks" href="#hl-0-30">30&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-31">&lt;a class="lnlinks" href="#hl-0-31">31&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-32">&lt;a class="lnlinks" href="#hl-0-32">32&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-33">&lt;a class="lnlinks" href="#hl-0-33">33&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-php" data-lang="php">&lt;span class="line">&lt;span class="cl">&lt;span class="o">&amp;lt;?&lt;/span>&lt;span class="nx">php&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sd">/**
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sd"> * Copyright 2022-2024 FOSSBilling
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sd"> * Copyright 2011-2021 BoxBilling, Inc.
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sd"> * SPDX-License-Identifier: Apache-2.0.
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sd"> *
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sd"> * @copyright FOSSBilling (https://www.fossbilling.org)
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sd"> * @license http://www.apache.org/licenses/LICENSE-2.0 Apache-2.0
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sd"> */&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">require_once&lt;/span> &lt;span class="no">__DIR__&lt;/span> &lt;span class="o">.&lt;/span> &lt;span class="s1">&amp;#39;/load.php&amp;#39;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">$di&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">include&lt;/span> &lt;span class="no">__DIR__&lt;/span> &lt;span class="o">.&lt;/span> &lt;span class="s1">&amp;#39;/di.php&amp;#39;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">use&lt;/span> &lt;span class="nx">FOSSBilling\Environment&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">$di&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="s1">&amp;#39;translate&amp;#39;&lt;/span>&lt;span class="p">]();&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">try&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">$interval&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nv">$argv&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">??&lt;/span> &lt;span class="k">null&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">$service&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nv">$di&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="s1">&amp;#39;mod_service&amp;#39;&lt;/span>&lt;span class="p">](&lt;/span>&lt;span class="s1">&amp;#39;cron&amp;#39;&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">Environment&lt;/span>&lt;span class="o">::&lt;/span>&lt;span class="na">isCLI&lt;/span>&lt;span class="p">())&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">echo&lt;/span> &lt;span class="s2">&amp;#34;\e[33m- Welcome to FOSSBilling.&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">echo&lt;/span> &lt;span class="s2">&amp;#34;\e[34mLast executed: &amp;#34;&lt;/span> &lt;span class="o">.&lt;/span> &lt;span class="nv">$service&lt;/span>&lt;span class="o">-&amp;gt;&lt;/span>&lt;span class="na">getLastExecutionTime&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="o">.&lt;/span> &lt;span class="s2">&amp;#34;.\e[0m&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">$service&lt;/span>&lt;span class="o">-&amp;gt;&lt;/span>&lt;span class="na">runCrons&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nv">$interval&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span> &lt;span class="k">catch&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">Exception&lt;/span> &lt;span class="nv">$exception&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">throw&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="nx">Exception&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nv">$exception&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span> &lt;span class="k">finally&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="nx">Environment&lt;/span>&lt;span class="o">::&lt;/span>&lt;span class="na">isCLI&lt;/span>&lt;span class="p">())&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">echo&lt;/span> &lt;span class="s2">&amp;#34;\e[32mSuccessfully ran the cron jobs.\e[0m&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>how does it look?&lt;/p></description></item></channel></rss>
